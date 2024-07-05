@@ -10,7 +10,7 @@ Th
 #### Project Goal
 The  
 
-![](image/1.png)
+![](/image/1.png)
 
 #### Conclusion 
 4 
