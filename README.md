@@ -10,7 +10,7 @@ Th
 #### Project Goal
 The  
 
-![](/1.png)
+![cccc](image/1.png)
 
 #### Conclusion 
 4 
@@ -19,7 +19,7 @@ The
 
 
 
-![](/2.png)
+![cccc](image/2.png)
 
 #### h
 I 
